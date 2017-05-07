@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="description">It is simple blog application on Android. In this app user have to register his/her details and then login. If user has already register then only user have to login, if  user login successfully  then user can post image with title and description in application, user can see post  of  other users and user can like and dislike the  post. User can remove his/her own post user cannot remove post of other users. User can perform logout from app. </string>
+</resources>
